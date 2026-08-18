@@ -1,0 +1,22 @@
+{
+  "name": "Our Little World",
+  "short_name": "OLW",
+  "description": "A small handcrafted world. Turn your phone sideways.",
+  "start_url": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b0c10",
+  "theme_color": "#0b0c10",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
